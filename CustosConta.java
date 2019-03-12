@@ -5,12 +5,11 @@ public class CustosConta{
                        PontuacaoCliente pontuacao){ 
 
         //TO DO 
-
+        int i = 0;   //introdução de uma variavel
         throw new UnsupportedOperationException("Not implemented yet"); 
 
     } 
 
-  
 
     public double jurosNoMes(int nroConta,int mes,int ano){ 
 
@@ -20,7 +19,6 @@ public class CustosConta{
 
     } 
 
-  
 
     public double taxaNoMes(int nroConta,int mes, int ano){ 
 
